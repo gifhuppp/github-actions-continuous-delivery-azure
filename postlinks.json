@@ -1,0 +1,85 @@
+[{
+ "creationDate": "2021-07-06T10:01:47.387Z",
+ "rank": 1,
+ "linkTypeId": 2,
+ "relatedPostId": 3,
+ "postId": 1,
+ "id": 2
+}, {
+ "creationDate": "2021-07-06T10:01:47.387Z",
+ "rank": 2,
+ "linkTypeId": 2,
+ "relatedPostId": 9,
+ "postId": 1,
+ "id": 3
+}, {
+ "creationDate": "2021-07-06T10:01:47.387Z",
+ "rank": 2,
+ "linkTypeId": 2,
+ "relatedPostId": 1,
+ "postId": 3,
+ "id": 4
+}, {
+ "creationDate": "2021-07-06T10:01:47.383Z",
+ "rank": 1,
+ "linkTypeId": 2,
+ "relatedPostId": 9,
+ "postId": 3,
+ "id": 1
+}, {
+ "creationDate": "2021-07-06T10:01:47.393Z",
+ "rank": 2,
+ "linkTypeId": 2,
+ "relatedPostId": 7,
+ "postId": 5,
+ "id": 6
+}, {
+ "creationDate": "2021-07-06T10:01:47.393Z",
+ "rank": 1,
+ "linkTypeId": 2,
+ "relatedPostId": 9,
+ "postId": 5,
+ "id": 5
+}, {
+ "creationDate": "2021-07-06T10:01:47.397Z",
+ "rank": 2,
+ "linkTypeId": 2,
+ "relatedPostId": 5,
+ "postId": 7,
+ "id": 8
+}, {
+ "creationDate": "2021-07-06T10:01:47.397Z",
+ "rank": 1,
+ "linkTypeId": 2,
+ "relatedPostId": 9,
+ "postId": 7,
+ "id": 7
+}, {
+ "creationDate": "2021-07-06T10:01:47.4Z",
+ "rank": 4,
+ "linkTypeId": 2,
+ "relatedPostId": 1,
+ "postId": 9,
+ "id": 12
+}, {
+ "creationDate": "2021-07-06T10:01:47.4Z",
+ "rank": 2,
+ "linkTypeId": 2,
+ "relatedPostId": 3,
+ "postId": 9,
+ "id": 10
+}, {
+ "creationDate": "2021-07-06T10:01:47.4Z",
+ "rank": 1,
+ "linkTypeId": 2,
+ "relatedPostId": 5,
+ "postId": 9,
+ "id": 9
+}, {
+ "creationDate": "2021-07-06T10:01:47.4Z",
+ "rank": 3,
+ "linkTypeId": 2,
+ "relatedPostId": 7,
+ "postId": 9,
+ "id": 11
+}]
